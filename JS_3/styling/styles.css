@@ -1,0 +1,10 @@
+.btn {
+    background-color: #0d6efd;
+    color: white; !important;
+    border-radius: 5px;
+}
+
+.err {
+    color: darkred;
+    display: none;
+}

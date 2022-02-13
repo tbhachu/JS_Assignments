@@ -1,0 +1,14 @@
+{
+  "name": "tbhachug/328/jS_Assignments",
+  "description": "Assignment project for JS homework.",
+  "license": "Open Source",
+  "authors": [
+    {
+      "name": "Tarsem Bhachu",
+      "email": "Bhachu.Tarsem@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
